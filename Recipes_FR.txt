@@ -1,0 +1,8 @@
+Recipes_FR = 
+{
+	Recipe_Extract_Bladder_from_Soccer_Ball = "Extraire la vessie d'un ballon de football",
+	Recipe_Extract_Bladder_from_Football = "Extraire la vessie d'un ballon de football",
+	Recipe_Make_a_Small_Waterskin = "Fabriquer une petite outre",
+	Recipe_Make_a_Large_Waterskin = "Fabriquer une grande outre",
+	Recipe_Make_a_Quality_Waterskin = "Fabriquer une outre de qualité",
+}
